@@ -5,4 +5,6 @@ To support the learning objectives, we have developed a [game engine](https://gi
 
 You are welcome to use the game engine for your own purposes. It is released under the [MIT license](https://opensource.org/licenses/MIT "MIT License Description"). Acknowledgment of the source of the game engine is required.
 
+A number of the games produced by students have been released as open source projects. They are available in this organisation.
+
 **Large Teams** -- In the context of this course, a *large* team could be anywhere from 25 to 60 students.
